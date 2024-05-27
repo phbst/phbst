@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m still in college
+- 🔭 I’m a college student
 - 🌱 I’m currently learning deep learning and language model fine-tuning
 - 👯 I’m looking to collaborate on llm
 - 🤔 I’m looking for help with search for a job
