@@ -20,9 +20,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img align="left" alt="Python" width="40px" src="https://img.icons8.com/?size=160&id=eETV3RNHVrWA&format=png"/>
   <img align="left" alt="Python" width="40px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png"/>
-  <img align="left" alt="Python" width="40px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png"/>
+  <img align="left" alt="Python" width="40px" src="https://img.icons8.com/?size=160&id=qGm5NPoTt8SR&format=png"/>
 
 </div>
+<br />
 <br />
 
 
