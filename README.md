@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning deep learning and language model fine-tuning
 - 👯 I’m looking to collaborate on llm
 - 🤔 I’m looking for help with search for a job
-- 💬 Ask me about fine-tunning
 - 📫 How to reach me: 2279118516@qq.com
 - ✨ My personal website: https://www.phbweb.space/#/home/start
 ---
@@ -20,8 +19,8 @@ Here are some ideas to get you started:
 <div style="padding-bottom: 50px;">
   <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img align="left" alt="Python" width="40px" src="https://img.icons8.com/?size=160&id=eETV3RNHVrWA&format=png"/>
-  <img align="left" alt="Python" width="40px" src="https://img.icons8.com/?size=160&id=qGm5NPoTt8SR&format=png"/>
-  <img align="left" alt="Python" width="40px" src="https://img.icons8.com/?size=160&id=rgPSE6nAB766&format=png"/>
+  <img align="left" alt="Python" width="40px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png"/>
+  <img align="left" alt="Python" width="40px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png"/>
 
 </div>
 <br />
