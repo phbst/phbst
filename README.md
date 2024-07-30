@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m a college student
 - 🌱 I’m currently learning deep learning and language model fine-tuning
 - 👯 I’m looking to collaborate on llm
-- 🤔 I’m looking for help with search for a job
+- 🤔 I do NLP algorithm work in the company
 - 📫 How to reach me: 2279118516@qq.com
 - ✨ My personal website: https://www.phbweb.space/#/home/start
 ---
