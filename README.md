@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I do NLP algorithm work in the company
 - 📫 How to reach me: 2279118516@qq.com
 - ✨ My personal website: https://www.phbweb.space/#/home/start
+- 👋 VPN: https://flafflnk01.flaff9.cc/auth/register?code=zNs3
 ---
 
 ### Skills 👨‍💻
