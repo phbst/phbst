@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ✨ My personal website: https://www.phbweb.space/#/home/start
 - 👋 VPN: https://flafflnk01.flaff9.cc/auth/register?code=zNs3
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phbst&hide=contribs,prs)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phbst&show_icons=true&theme=radical)
+---
 ### Skills 👨‍💻
 <!--<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />-->
 <div style="padding-bottom: 50px;">
