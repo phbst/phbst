@@ -21,10 +21,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Python" width="40px" src="https://img.icons8.com/?size=160&id=qGm5NPoTt8SR&format=png"/>
 
 </div>
----
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phbst&show_icons=true&theme=highcontrast)
----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phbst&show_icons=true&theme=gruvbox)
 
 <br />
 <br />
