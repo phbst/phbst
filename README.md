@@ -8,12 +8,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a college student
 - 🌱 I’m currently learning deep learning and language model fine-tuning
-- 👯 I’m looking to collaborate on llm
-- 🤔 I do NLP algorithm work in the company
 - 📫 How to reach me: 2279118516@qq.com
 - ✨ My personal website: https://www.phbweb.space/#/home/start
 - 👋 VPN: https://flafflnk01.flaff9.cc/auth/register?code=zNs3
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phbst&hide=contribs,prs)
 
 ### Skills 👨‍💻
 <!--<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />-->
