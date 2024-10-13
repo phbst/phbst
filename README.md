@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m a college student
+- 🔭 I’m a college student and NLP Algorithm Intern
 - 🌱 I’m currently learning deep learning and language model fine-tuning
 - 📫 How to reach me: 2279118516@qq.com
 - ✨ My personal website: https://bobnlp.site/
