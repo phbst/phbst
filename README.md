@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m a college student and NLP Algorithm Intern
 - 🌱 I’m currently learning deep learning and language model fine-tuning
 - 📫 How to reach me: 2279118516@qq.com
-- ✨ My personal website: https://bobnlp.site/
+- ✨ My personal website: https://www.bobnlp.site/
 - 👋 VPN: https://flafflnk01.flaff9.cc/auth/register?code=zNs3
 
 ### Skills 👨‍💻
