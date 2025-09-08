@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤖 I’m working in Baidu now
 - 🔭 I’m a college student and NLP Algorithm Intern
 - 🌱 I’m currently learning deep learning and language model fine-tuning
-- 📫 How to reach me: 2279118516@qq.com
+- 📫 How to reach me: 19568883648@163.com
 - ✨ My personal website: https://www.bobnlp.site/
 - 👋 VPN: https://flafflnk01.flaff9.cc/auth/register?code=zNs3
 
