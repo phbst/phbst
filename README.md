@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning deep learning and language model fine-tuning
 - 📫 How to reach me: 19568883648@163.com
 - ✨ My personal website: https://www.bobnlp.site/
-- 👋 VPN: https://flafflnk01.flaff9.cc/auth/register?code=zNs3
+- 👋 VPN: [https://flafflnk01.flaff9.cc/auth/register?code=zNs3](https://flafflnk01.flaff9.cc/auth/register?code=zNs3)
 
 ### Skills 👨‍💻
 <!--<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />-->
