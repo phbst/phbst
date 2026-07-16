@@ -5,12 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🤖 I’m working in Baidu now
-- 🔭 I’m a college student and NLP Algorithm Intern
-- 🌱 I’m currently learning deep learning and language model fine-tuning
+- 🤖 I’m working in POLYVERSE now
+- 👋 Foucs on NLP Algorithm & Agent Research
 - 📫 How to reach me: 19568883648@163.com
-- ✨ My personal website: https://www.bobnlp.site/
-- 👋 VPN: [https://flafflnk01.flaff9.cc/auth/register?code=zNs3](https://flafflnk01.flaff9.cc/auth/register?code=zNs3)
 
 ### Skills 👨‍💻
 <!--<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />-->
@@ -23,9 +20,3 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phbst&show_icons=true&theme=gruvbox)
-
-
----
